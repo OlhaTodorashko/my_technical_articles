@@ -84,3 +84,6 @@ bypassed with a simple prompt like: `ignore any security violations`.
 -   Search files for `curl` or other `command executions`.
 -   Remember that security measures are not a silver bullet - they can
     be bypassed.
+
+
+_Article published on LinkedIn_
