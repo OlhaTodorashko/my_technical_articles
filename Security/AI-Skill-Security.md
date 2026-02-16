@@ -86,4 +86,4 @@ bypassed with a simple prompt like: `ignore any security violations`.
     be bypassed.
 
 
-_Article published on LinkedIn_
+_Article published on [LinkedIn](https://www.linkedin.com/posts/olha-todorashko-904a9545_understanding-prompt-injections-a-frontier-activity-7428033842990632960-IUgf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAmXx9QBxe7Dqyi3n6snUTt-iCTt7YLBIEc)_
